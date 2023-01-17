@@ -1,5 +1,6 @@
 require "config.plugins"
 require "config.options"
+require "config.autocmd"
 require "config.lualine"
 require "config.colorscheme"
 require "config.cmp"
